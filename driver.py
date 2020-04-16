@@ -1,3 +1,4 @@
+#coding=UTF-8
 import comment_downloader as CD
 import fancySentiment as FS
 # import sys
