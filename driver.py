@@ -1,6 +1,5 @@
 #coding=UTF-8
-import sys  
-sys.setdefaultencoding('utf-8')
+import sys
 import comment_downloader as CD
 import fancySentiment as FS
 # import sys
